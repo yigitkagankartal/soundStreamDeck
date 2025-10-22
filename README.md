@@ -26,6 +26,6 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sound-stream-deck.git
+git clone https://github.com/yigitkagankartal/soundStreamDeck.git
 
 ⭐ Enjoy triggering your favorite sound effects!
